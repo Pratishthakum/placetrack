@@ -1,0 +1,9 @@
+{
+  "short_name": "PlaceTrack",
+  "name": "PlaceTrack - Placement Application Tracker",
+  "icons": [{ "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5b4bff",
+  "background_color": "#f7f6fb"
+}
